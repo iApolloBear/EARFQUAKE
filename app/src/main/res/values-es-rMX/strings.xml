@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terremoto</string>
+    <string name="near_the">Cerca De</string>
+    <string name="no_earthquakes">No Se Encontraron Terremotos</string>
+    <string name="no_internet_connection">Sin Conexion</string>
+    <string name="settings_menu_item">Configuracion</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_min_magnitude_label">Magnitud Minima</string>
+    <string name="settings_order_by_label">Ordenar Por</string>
+    <string name="settings_order_by_magnitude_label">Magnitud</string>
+    <string name="settings_order_by_most_recent_label">Mas Reciente</string>
+</resources>
